@@ -1,0 +1,20 @@
+.botao {
+    font-family: Poppins;
+    width: 130px;
+    height: 40px;
+    border-radius: 83px;
+    text-align: center;
+    background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+}
+
+.botao:hover {
+    transform: translateY(-5px);
+    transition: 0.5s;
+    background:  linear-gradient(270deg, rgb(148, 93, 214) 0%, #6978D1 66.67%, rgb(19, 173, 199) 100%);
+    box-shadow: 0 2px 3px rgba(148, 93, 214), 0 1px 2px rgba(19, 173, 199);
+}

@@ -1,0 +1,147 @@
+.containerGeral {
+    display: flex;
+    justify-content: center;
+}
+
+section h1 {
+    margin: 100px 0px 0px 12%;
+    font-size: 2rem;
+}
+
+.roadmap {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.step {
+    display: flex;
+    width: 80%;
+    height: 8px;
+    background: white;
+    margin: auto;
+    
+}
+
+.divContent {
+    text-align: center;
+}
+
+.containerCircle {
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-7%);
+    gap: 45px;
+    
+}
+
+.circle {
+    background: white;
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    transform: translateX(10%);
+}
+
+.articleP {
+    width: 200px;
+}
+
+.articleP p {
+    margin: 0;
+    font-weight: 600;
+
+}
+
+h4 {
+    margin: 0;
+    font-weight: 600;
+}
+
+@media screen and (max-width: 920px) {
+    section h1 {
+        margin: 50px 0 0 5%;
+    }
+
+    .containerCircle {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+
+    .step {
+        display: none; 
+        width: 90%;
+    }
+
+    .articleP {
+        width: 80%;
+    }
+
+    .articleP {
+        width: 90%;
+        margin: 0px 0px 5% 5%;
+        text-align: center;
+    }
+
+    section {
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    section h1 {
+        margin: 30px 0 0 5%;
+        font-size: 2rem; 
+    }
+
+    .containerCircle {
+        gap: 10px;
+    }
+
+    .step {
+       display: none; 
+    }
+
+    .circle {
+        width: 15px;
+        height: 15px;
+    }
+
+    .articleP {
+        width: 90%;
+        margin: 0px 0px 5% 5%;
+        text-align: center;
+    }
+
+    section {
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 1500px) {
+
+    section h1 {
+        margin: 100px 0px 0px 12%;
+        font-size: 3rem;
+    }
+
+    h4 {
+        font-size: 2rem;
+    }
+
+    .articleP p {
+        font-size: 1.1rem;
+    
+    }
+
+    .containerCircle {
+        transform: translateY(-9%);
+        
+    }
+
+
+}
+
