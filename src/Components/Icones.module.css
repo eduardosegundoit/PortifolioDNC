@@ -5,7 +5,7 @@
 }
 
 .Icones a:hover {
-    color: rgb(158, 157, 157);
+    color: rgb(139, 180, 243);
     transform: translateY(-5px);
     transition: 0.5s;
     font-size: 50px;
