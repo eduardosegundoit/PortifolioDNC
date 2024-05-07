@@ -30,4 +30,15 @@ bem elaborado não só atrai potenciais clientes, mas também transmite autorida
 e confiança no seu trabalho, ajudando a diferenciá-lo da concorrência e a se
 destacar no mercado altamente competitivo de desenvolvimento web.
 
+Tecnologys : Html, CSS, React vite
+
+Projeto foi atualizado recente para a melhora da responsividade.
+
+![alt text](<Screenshot 2024-05-07 054617.png>) : Nesta seção, você encontrará um pouco mais sobre meus objetivos e meu pensamento sobre tecnologia.
+
+![alt text](<Screenshot 2024-05-07 054835.png>) : Aqui você encontrará um pouco dos meus projetos realizados enquanto estava aprendendo com a escola DNC.
+
+![alt text](<Screenshot 2024-05-07 055015.png>) : Por fim, gostaria de compartilhar um resumo da minha trajetória de vida, experiências profissionais e serviços oferecidos.
+
+
 https://portifoliodnc2024.netlify.app/
